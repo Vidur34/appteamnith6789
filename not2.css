@@ -1,0 +1,18 @@
+.main{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(7,59,76,0.5),
+                 rgba(0,0,0,0.2)),
+                   url('background2.jpeg') no-repeat center/cover ;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color:aliceblue;
+}
+h2{
+    color:aquamarine;
+}
+h3{
+    color:antiquewhite
+}
